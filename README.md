@@ -42,7 +42,7 @@ $ cd Doxx
 $ pip install -r requirements.txt
 ```
 4. Criminal API KEY
-   - Go Criminal.io:  https://www.criminalip.io/en
+   - Go Criminalip.io:  https://www.criminalip.io/en
    - CREATE A ACCOUNT
    - AFTER CREATED A ACCOUNT, CLICK ON YOUR PROFILE PIC UPPER RIGHT
    - CLICK "My Information"
