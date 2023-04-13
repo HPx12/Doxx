@@ -37,6 +37,10 @@ $ git clone https://github.com/HPx12/Doxx/
 ```
 $ cd Doxx
 ```
+3. INSTALL REQUIREMENTS
+```
+$ pip install -r requirements.txt
+```
 3. Criminal API KEY
    - Go Criminal.io:  https://www.criminalip.io/en
    - CREATE A ACCOUNT
