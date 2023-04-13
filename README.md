@@ -41,7 +41,7 @@ $ cd Doxx
 ```
 $ pip install -r requirements.txt
 ```
-3. Criminal API KEY
+4. Criminal API KEY
    - Go Criminal.io:  https://www.criminalip.io/en
    - CREATE A ACCOUNT
    - AFTER CREATED A ACCOUNT, CLICK ON YOUR PROFILE PIC UPPER RIGHT
@@ -51,7 +51,7 @@ $ pip install -r requirements.txt
 ```
 $ bash Setup.sh
 ```
-4. THEN RUN THE TOOL
+5. THEN RUN THE TOOL
 ```
 $ python dox.py -h
 ```
