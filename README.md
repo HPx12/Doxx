@@ -1,10 +1,16 @@
-# Doxx
+# Doxx 🔎
+
+COLLECT, ANALYZE, AND RUN RECONNAISSANCE.
 
 <p align="center">
 <img align="center" src="images/Screenshot.png" width="900">
 </p>
 
-## USAGE
+DISCLAIMER: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this tool.**
+Warning: It is advisable to **not** use your own/primary account when using this tool.
+
+
+## Tools and Commands
 ```
 USAGE: 
  [-h] FOR PRINTING THIS OUT
@@ -23,23 +29,29 @@ USAGE:
 
 
 ## SETUP
-* DOWNLOAD THE TOOL
+1. DOWNLOAD THE TOOL
 ```
 $ git clone https://github.com/HPx12/Doxx/
 ```
-* GO TO THE DIRECTORY OF THE TOOL
+2. GO TO THE DIRECTORY OF THE TOOL
 ```
 $ cd Doxx
 ```
-* RUN Setup.sh
+3. INSTALL REQUIREMENTS
+```
+$ pip install -r requirements.txt
+```
+4. Criminal API KEY
+   - Go Criminal.io:  https://www.criminalip.io/en
+   - CREATE A ACCOUNT
+   - AFTER CREATED A ACCOUNT, CLICK ON YOUR PROFILE PIC UPPER RIGHT
+   - CLICK "My Information"
+   - YOU WILL SEE API KEY COPY IT
+   - AND PASTE IT AFTER RUNNING THIS COMMAND
 ```
 $ bash Setup.sh
 ```
-_PUT YOUR CRIMINAL API KEY_
----
-
-### THEN RUN THE TOOL
-
+5. THEN RUN THE TOOL
 ```
 $ python dox.py -h
 ```
